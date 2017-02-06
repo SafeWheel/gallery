@@ -1,0 +1,86 @@
+* {
+    font-family: 'Raleway', sans-serif;
+}
+
+#title {
+    border: 1px none white;
+    border-radius: 2.5px;
+    color: #2ca083;
+    margin: auto;
+    padding: both;
+}
+
+h1 {
+    display: relative;
+    font-size: 42px;
+    text-align: center;
+    font-family: "Raleway Dots", cursive;
+    margin: auto;
+    padding: both;
+}
+
+body {
+    /*background-color:#5f877d;
+    width=500px;*/
+    background-color: #f7f7f7;
+}
+
+#nav {
+    position: relative;
+    background-color: white;
+    box-shadow: 2px 2px 6px;
+    border: 1px solid white;
+    border-radius: 2.5px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0px 0px 8px 0px;
+    padding: 8px;
+}
+
+li {
+    font-size: 18px;
+    display: inline;
+    padding: 4px;
+}
+
+li:hover {
+    background-color: #f44242;
+    padding: 8px;
+}
+
+.sorry {
+    padding: both;
+    margin: auto;
+    background-color: white;
+    border: 1px none white;
+    border-radius: 2.5px;
+}
+
+.explain {
+    padding: both;
+    margin: auto;
+    color: #f44242;
+
+p {
+    padding: both;
+    margin: auto;
+    color: white;
+}
+
+#button {
+    padding: both;
+    margin: auto;
+    background-color:#f44242;
+    border: 2.5px none #f44242;
+    border-radius: 2.5px;
+}
+
+li.active {
+    border-bottom:2px solid #f44242;
+}
+
+li a {
+    text-decoration: none;
+}
