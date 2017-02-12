@@ -69,9 +69,7 @@ p {
     color: #FFFFFF;
 }
 
-#button {
-    padding: both;
-    margin: auto;
+.button {
     background-color: #f44242;
     border: 2.5px none #f44242;
     border-radius: 2.5px;
